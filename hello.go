@@ -16,7 +16,7 @@ func main() {
 	fmt.Println(sum(4, 6))
 	fmt.Println(devide(10, 2))
 
-	a, b := combineString(combineString("Hello", "go"))
+	a, b := combineString("Hello", "go")
 	fmt.Println(a, b)
 
 	fmt.Println(firstName, lastName)
